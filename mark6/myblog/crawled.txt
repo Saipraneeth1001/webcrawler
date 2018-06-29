@@ -1,0 +1,6 @@
+http://saipraneeth1001.pythonanywhere.com
+http://saipraneeth1001.pythonanywhere.com/
+http://saipraneeth1001.pythonanywhere.com/about/
+http://saipraneeth1001.pythonanywhere.com/accounts/login/
+http://saipraneeth1001.pythonanywhere.com/accounts/signup/
+http://saipraneeth1001.pythonanywhere.com/urlshorten/
